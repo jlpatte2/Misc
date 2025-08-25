@@ -1,0 +1,65 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Vertical Container\" style=\"swimlane;whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"2.2737367544323206e-13\" width=\"200\" height=\"200\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 200,
+    "aspect": "fixed",
+    "title": "Context"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"ACT.%Actor_Name%.%Actor_ID%\" placeholders=\"1\" Actor_Name=\"Actor Short Name Here\" Actor_Description=\"Actor Description Here\" Actor_ID=\"x.x\" tooltip=\"ACT.%Actor_Name%.%Actor_ID%&amp;#10;%Actor_Description%\" id=\"2\"&gt;&lt;mxCell style=\"shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;metaEdit=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"30\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "Human Actor"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"ACT.%Actor_Name%.%Actor_ID%\" placeholders=\"1\" Actor_Name=\"Actor Short Name Here\" Actor_ID=\"0\" Actor_Description=\"Long Description here\" tooltip=\"ACT.%Actor_Name%.%Acotr_ID%&amp;#10;%Actor_Description%\" id=\"2\"&gt;&lt;mxCell style=\"sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.detected_software;metaEdit=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 50,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Program Actor"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"TB.&amp;lt;span style=&amp;quot;background-color: transparent; color: light-dark(rgb(255, 51, 51), rgb(255, 119, 119));&amp;quot;&amp;gt;%TB_Name%.%TB_ID%&amp;lt;/span&amp;gt;\" placeholders=\"1\" TB_Name=\"TBName\" TB_ID=\"x.x\" tooltip=\"TB.%TB_Name%.%TB_ID%&amp;#10;%TB_Description%\" TB_Description=\"TB Description Here\" id=\"2\"&gt;&lt;mxCell style=\"shape=requiredInterface;html=1;verticalLabelPosition=bottom;dashed=1;strokeColor=#FF3333;strokeWidth=2;fillColor=none;fontColor=#FF3333;align=center;verticalAlign=top;labelPosition=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;metaEdit=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"20\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 20,
+    "h": 80,
+    "aspect": "fixed",
+    "title": "Trust Boundary"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"TB.%TB_Name%.%TB_ID%\" placeholders=\"1\" TB_Name=\"TBNameHere\" TB_ID=\"x.x\" tooltip=\"TB.%TB_Name%.%TB_ID%&amp;#10;%Actor_Description%\" TB_Description=\"TB Description Here\" id=\"2\"&gt;&lt;mxCell style=\"html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#FF3333;spacingLeft=20;spacingTop=-3;metaEdit=1;container=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"170\" height=\"55\" as=\"geometry\"&gt;&lt;mxRectangle x=\"260\" y=\"295\" width=\"120\" height=\"20\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 170,
+    "h": 55,
+    "aspect": "fixed",
+    "title": "Trust Box"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"ACT.%Actor_Name%.%Actor_ID%\" Actor_Name=\"Actor Name Here\" Actor_ID=\"x.x\" Actor_Description=\"Long Description Here\" placeholders=\"1\" tooltip=\"ACT.%Actor_Name%.%Actor_ID%&amp;#10;%Actor_Description%\" id=\"2\"&gt;&lt;mxCell style=\"text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"100\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 100,
+    "h": 20,
+    "aspect": "fixed",
+    "title": "Generic Actor"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"AS.%AS_ID%\" placeholders=\"1\" AS_ID=\"x.x\" AS_Description=\"Asset Description\" tooltip=\"AS.%AS_ID%&amp;#10;%AS_Description%\" id=\"2\"&gt;&lt;mxCell style=\"rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;metaEdit=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 50,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Asset"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"DS:%Data_Name%\" placeholders=\"1\" Data_Name=\"DSNameHere\" Data_Description=\"Data Store Description here\" tooltip=\"DS:%Data_Name%&amp;#10;%Data_Description%\" id=\"2\"&gt;&lt;mxCell style=\"strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=11;labelBorderColor=none;metaEdit=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"100\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 100,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "Data Source"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"T.%Threat_ID%\" placeholders=\"1\" Threat_ID=\"X\" Threat_Description=\"Threat Description Here\" tooltip=\"T.%Threat_ID%&amp;#10;%Threat_Description%\" id=\"2\"&gt;&lt;mxCell style=\"verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,0.75],[0.75,1],[0.25,1],[0,0.75],[0,0.25]];polyline=0;fillColor=#f8cecc;strokeColor=#FF0000;fontColor=#FF0000;fontStyle=1;labelPosition=center;align=center;fontSize=14;metaEdit=1;points=[[0,0.5,0,0,0],[0.15,0.1,0,0,0],[0.15,0.9,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.85,0.1,0,0,0],[0.85,0.9,0,0,0],[1,0.5,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Threat"
+  }
+]</mxlibrary>
